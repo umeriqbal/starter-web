@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Umer Iqbal	umer@umer.com
+	
 
 # THANKS
 
