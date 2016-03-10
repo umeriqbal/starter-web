@@ -16,5 +16,7 @@ Deployment paragraph.
 
 ## How to contribute
 
+please fork this repository
+
 ## Copyright Section
 Add copyright option
