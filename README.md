@@ -15,3 +15,6 @@ Purpose of the project
 Deployment paragraph.
 
 ## How to contribute
+
+## Copyright Section
+Add copyright option
