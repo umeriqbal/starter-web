@@ -20,4 +20,4 @@ Deployment paragraph.
 please fork this repository
 
 ## Copyright Section
-Add copyright option
+Add copyright option. All rights reserved.
